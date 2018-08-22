@@ -1,0 +1,20 @@
+{
+  "name": "nodekakao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "jade": "^1.11.0",
+    "k-lunch": "^1.0.0",
+    "multer": "^1.3.0",
+    "node-gyp": "^3.6.2",
+    "node-school-kr": "^1.0.1"
+  }
+}
